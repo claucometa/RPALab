@@ -1,3 +1,3 @@
 # RPALab
 
-Testes de automação
+Testes de automação no Ambiente Windows - Aplicações Windows
